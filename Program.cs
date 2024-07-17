@@ -80,7 +80,7 @@ class Program
 
 	static async Task PublicarComentario(YouTubeService youtubeService)
 	{
-		var videoId = "Pahn9p-VehI"; // Id del video de referencia
+		var videoId = "VIDEOID"; // Id del video de referencia
 		Console.WriteLine("Ingrese el comentario a publicar:");
 		var commentText = Console.ReadLine();
 
