@@ -1,0 +1,140 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lib
+*.a
+*.la
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Directories
+.DS_Store
+.vscode
+.vs
+bin/
+obj/
+out/
+Release/
+Debug/
+
+# Logs
+*.log
+
+# Database
+*.sql
+*.sqlite
+*.db
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+._*
+
+# Visual Studio
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## User-specific files (Mono auto generated)
+mono_crash.*
+
+## Mono auto generated files
+mono_crash.*
+
+## Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+## Folder config file
+Desktop.ini
+
+# Visual Studio Code
+.vscode/*
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Project files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# NuGet Packages
+*.nupkg
+# NuGet Symbol Packages
+*.snupkg
+
+# The directory where NuGet puts packages when installing them
+packages/
+
+# Npm Packages
+node_modules/
+
+# Microsoft Azure Web App publish settings. [remove this line if you are using these settings]
+PublishProfiles/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Python cache
+__pycache__/
+
+# Python Env
+.venv/
+
+# Environment variables
+.env
+
+# Secret JSON files
+appsettings.json
+appsettings.Development.json
+
+# Local history for JetBrains IDEs
+.idea/
+
+# Other IDEs and Tools
+*.swp
+*~
+*.idea
+
+# Build directories
+build/
+dist/
